@@ -1,0 +1,1 @@
+SELECT t.cidNumber FROM taxpayer t WHERE t.cidNumber="10709002084" LIMIT 1

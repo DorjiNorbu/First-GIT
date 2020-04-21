@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Maven">
+    <ANNOTATIONS>
+      <root url="file://D:/Maven" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://D:/Maven" />
+      <root url="file://D:/Maven" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://D:/Maven" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://D:/Maven" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://D:/Maven" />
+      <root url="file://D:/Maven" />
+    </SOURCES>
+    <jarDirectory url="file://D:/Maven" recursive="false" />
+    <jarDirectory url="file://D:/Maven" recursive="false" type="SOURCES" />
+  </library>
+</component>
